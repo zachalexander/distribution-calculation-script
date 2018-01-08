@@ -1,0 +1,39 @@
+varname,question number on survey,measure
+count,,Count
+,,Key Findings
+,,Impact on and Understanding of Grantees' Fields and Communities
+fldimp,7,Impact on the field
+undrfld,33,Understanding of the field
+advknow,35,Advancing knowledge in grantees' fields
+pubpol,36,Effect on public policy in grantees' fields
+comimp,8,Impact on the community
+undrwr,34,Understanding of the community
+benefundr,49,Understanding of beneficiaries' needs
+benefprio,50,Funding priorities reflect understanding of beneficiaries' needs
+,,Impact on Grantee Organizations
+orgimp,6,Impact on grantee organizations
+undrorg,32,Understanding of grantee goals/strategy
+undrsoc,42,Understanding of contextual factors
+impsust,31,Impact of the Foundation on ability to sustain work
+awarechall,43,Awareness of org. challenges
+helpchall,44,Help addressing org. challenges
+,,Relationships with Foundation Staff
+comfort,21,Comfort approaching the Foundation if a problem arises
+responsv,38,Responsiveness of Foundation staff
+fairness,39,Fairness of grantee treatment
+clrcomm,5,Clarity of comms. of the Foundation's goals and strategy
+consistent,27,Consistency of comms. resources
+,,Foundation Transparency
+transparent,45,Overall transparency
+trans_select,46,Transparency of selection process
+trans_futfund,46,Transparency about future funding
+trans_bestpractice,46,Transparency about best practices
+trans_failure,46,Transparency about what hasn't worked in the past
+openideas,48,Openness to ideas from grantees about strategy
+,,Foundation Processes
+selhelp,16,Helpfulness of selection process
+selfdn,15,Level of staff involvement in proposal
+pressure,13,Level of pressure to modify priorities
+helpeval,20,Helpfulness of evaluation process
+helpassess,47,Help assessing progress toward goals
+,,Foundation-Specific Questions
